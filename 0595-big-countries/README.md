@@ -52,4 +52,4 @@ World table:
 | Algeria     | 37100000   | 2381741 |
 +-------------+------------+---------+
 </pre>
-completed.
+completed with high accuracy.
