@@ -43,4 +43,4 @@ Employee table:
 +----------+
 <strong>Explanation:</strong> Joe is the only employee who earns more than his manager.
 </pre>
-Completed
+Completed by Vivek B R
