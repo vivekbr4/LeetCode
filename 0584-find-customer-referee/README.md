@@ -48,4 +48,4 @@ Customer table:
 </pre>
 
 end.
-completed by Vivek
+via Leetcode SQL challenge
