@@ -64,3 +64,4 @@ Orders table:
 | Max       |
 +-----------+
 </pre>
+via Leetcode SQL challenge
